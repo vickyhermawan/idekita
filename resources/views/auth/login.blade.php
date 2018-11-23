@@ -52,7 +52,8 @@
                     </a>
                     </p>
                     <div class="submit-w3l">
-                        <button type="submit">LOGIN</button> 
+                        <input type="submit" value="LOGIN"> 
+                       
                     </div>
                 </form>
             </div>

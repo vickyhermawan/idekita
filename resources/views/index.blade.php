@@ -67,7 +67,7 @@
         				<form id="search" action="https://idekita.com/search">
           				<input class="search-text" type="search" name="q" placeholder="Search " value=""></form></li>
 						<li><a href="#">Masuk</a></li>
-						<li><a href="#">Daftar</a></li>
+						
 					</ul>
 				</nav>
 
